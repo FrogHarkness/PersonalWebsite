@@ -37,7 +37,7 @@ social:
   # To enable, copy your resume/CV to `static/uploads/resume.pdf`
   - icon: file-pdf
     icon_pack: fas
-    label: View Resume
+    label: Resume
     link: uploads/resume.pdf
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
