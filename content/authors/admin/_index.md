@@ -1,6 +1,6 @@
 ---
 # Display name
-title:Yizhong Shao
+title: Yizhong Shao
 name_pronunciation: Yichung
 
 # Is this the primary user of the site?
