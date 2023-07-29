@@ -19,19 +19,14 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: ''
+bio: 'Never life, never give up'
 
 # Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+# 
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/yiz.shaw/
+    link: 'mailto:y3shao@uwaterloo.ca'
   - icon: github
     icon_pack: fab
     link: https://github.com/FrogHarkness
