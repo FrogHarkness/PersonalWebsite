@@ -4,7 +4,7 @@ title:
 date: 2022-10-24
 type: landing
 sections:
-  - block: about.biography
+  - block: about.avatar
     content:
     title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
