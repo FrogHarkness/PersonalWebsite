@@ -26,7 +26,8 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
-     - block: experience
+  
+  - block: experience
     id: experience
     content:
       title: Experiences
