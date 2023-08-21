@@ -3,7 +3,39 @@
 title: Yizhong Shao
 name_pronunciation: Yichung
 
-# Is this the primary user of the site?
+---
+avatar_filename: avatar.jpg
+bio: Hello World
+interests:
+  - Operations Research
+  - Machine Learning
+  - Industry 4.0
+  - Electrical Engineering
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: /#contact
+  - icon: graduation-cap
+    icon_pack: fas
+    link: https://scholar.google.com
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/AlbertHX86
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/xiao-huang-26b2171b7/
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+organizations:
+  - name: National University of Singapore
+    url: https://www.nus.edu.sg/
+education:
+  courses:
+    - course: BEng. in Electrical Engineering, Minor in Business Analytics,
+        Specialization in Industry 4.0
+      institution: National University of Singapore
+      year: Class of 2025
 superuser: true
 
 # Role/position
