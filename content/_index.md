@@ -26,4 +26,20 @@ sections:
           position: center
           parallax: false
       css_class: d-flex fullscreen align-items-center
+     - block: experience
+    id: experience
+    content:
+      title: Experiences
+      date_format: Jan 2006
+      items:
+        - title: 'Benchmark Intern'
+          company: BMW
+          company_url: 'https://BMW.com/'
+          company_logo:
+          location: 
+          date_start: '2023-08-31'
+          date_end: '2023-12-28'
+          description: |2-
+            -
+
 ---
