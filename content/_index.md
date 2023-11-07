@@ -7,14 +7,30 @@ sections:
   - block: about.avatar
     content:
   
-      # Choose a user profile to display (a folder name within `content/authors/`)
+   
       username: admin
       text: |-
-         Hi, there! I'm **Yizhong Shao**, Undergraduate/.
+         Hi, there! I'm **Yizhong Shao**, Undergraduate in UWaterloo/.
 
         {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
       
-      
+       - block: features
+    content:
+      title: Skills
+      items:
+        - name: Programming
+          description: Python, C++ (LinkedIn certificated), MATLAB (LinkedIn certificated), SQL (LinkedIn certificated)
+          icon: r-project
+          icon_pack: fab
+        - name: Statistics
+          description: ML (LinkedIn certificated), Linear Programming, GIS data analysis (QGIS)
+          icon: chart-line
+          icon_pack: fas
+        - name: Electrical Engineering
+          description: Signals and systems, circuits, semi-conductors, grids, control theories, simulation
+          icon: camera-retro
+          icon_pack: fas
+ 
     design:
       background:
         color: grey
