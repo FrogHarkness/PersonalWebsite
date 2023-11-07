@@ -6,8 +6,6 @@ type: landing
 sections:
   - block: about.avatar
     content:
-  
-   
       username: admin
       text: |-
          Hi, there! I'm **Yizhong Shao**, Undergraduate in UWaterloo/.
