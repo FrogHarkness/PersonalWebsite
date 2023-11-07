@@ -7,7 +7,7 @@ name_pronunciation: Yichung
 superuser: true
 
 # Role/position
-role: ''
+role: Undergraduate of UWaterloo 2027 PMath 
 
 # Status emoji
 status:
